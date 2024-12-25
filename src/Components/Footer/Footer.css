@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  background-color: rgba(153, 153, 153, 0.1);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer a {
+  color: green;
+}
+.footer a:hover{
+  color: teal;
+  letter-spacing: 1px;
+}
